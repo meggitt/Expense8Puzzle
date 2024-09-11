@@ -85,7 +85,7 @@ To run the program, use the following command:
 ### Example
 
 ```bash
-py puzzle_solver.py start.txt goal.txt bfs true
+py expense_8_puzzle.py start.txt goal.txt bfs true
 ```
 
 This command will use the BFS algorithm to solve the puzzle and generate a trace file.
